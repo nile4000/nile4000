@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @nile4000
-- 👀 I’m trying to realize a Project in document processing 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on this specific Project "pdfReader"
+- 👀 I’m trying to realize a Project in Project Management
+- 🌱 I’m currently working with Javascript and Java
+- 💞️ I’m looking to collaborate on this specific Project "webppm"
 - 📫 How to reach me nile@live.de
 
 <!---
