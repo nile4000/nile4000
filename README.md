@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @nile4000
-- 👀 I’m trying to realize a Project in Project Management
+- 👋 Hi, I’m nils
 - 🌱 I’m currently working with TypeScript and Java
-- 💞️ I’m looking to collaborate on this specific Project "webppm"
+- 💞️ I’m looking to collaborators on different projects
 - 📫 How to reach me nile@live.de
 
 <!---
