@@ -1,6 +1,7 @@
 - 👋 Hi, I’m nils
+- 🧑‍💻 I'm full-time employed
 - 🌱 I’m currently working with TypeScript and Java
-- 💞️ I’m looking to collaborators on different projects
+- 💞️ I’m looking for collaborators on cool projects
 - 📫 How to reach me nile@live.de
 
 <!---
