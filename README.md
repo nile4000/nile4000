@@ -1,6 +1,6 @@
 - 👋 Hi, I’m nils
 - 🧑‍💻 I'm full-time employed
-- 🌱 I’m currently working with TypeScript and Java
+- 🌱 I’m currently working with JaveScript, TypeScript, ABAP and Java
 - 💞️ I’m looking for collaborators on cool projects
 - 📫 How to reach me nile@live.de
 
