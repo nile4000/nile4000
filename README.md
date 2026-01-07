@@ -1,5 +1,4 @@
 - 👋 Hi, I’m nils
-- 🧑‍💻 I'm full-time employed
 - 🤝 I'm looking for collaborators on innovative projects
 
 <!---
